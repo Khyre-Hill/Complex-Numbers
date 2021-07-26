@@ -138,11 +138,7 @@ public class ComplexNum {
 		return "ComplexNum " + Real + Imagine + "i";
 	}
 	
-	/*
-	 * public boolean equals (ComplexNum)
-	 * if (ComplexNum = Null)
-	 * return false;
-	 */
+	
 	
 	
 	
